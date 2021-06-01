@@ -36,7 +36,7 @@ tensorboard==1.11.0
 tensorflow==1.11.0
 termcolor==1.1.0
 text-unidecode==1.2
-urllib3==1.24
+urllib3==1.26.5
 virtualenv==16.4.0
 Werkzeug==0.14.1
 yagmail==0.11.214
